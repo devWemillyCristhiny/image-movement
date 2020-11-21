@@ -13,7 +13,7 @@ export default function(){
                 </div>
                 <div className="contentBx">
                     <div>
-                        <h2>Torta de chocolate</h2>
+                        <h2>Criança negra, mais bonita do mundo.</h2>
                         <p>Lorem Ipsum is simply dummy text of the printing and 
                             typesetting industry. Lorem Ipsum has been the industry's 
                             standard dummy text ever since the 1500s, when an unknown 
@@ -31,7 +31,7 @@ export default function(){
                 </div>
                 <div className="contentBx">
                     <div>
-                        <h2>Torta de chocolate</h2>
+                        <h2>As gemeas mais bonitas do mundo.</h2>
                         <p>Lorem Ipsum is simply dummy text of the printing and 
                             typesetting industry. Lorem Ipsum has been the industry's 
                             standard dummy text ever since the 1500s, when an unknown 
@@ -49,7 +49,7 @@ export default function(){
                 </div>
                 <div className="contentBx">
                     <div>
-                        <h2>Torta de chocolate</h2>
+                        <h2>Garota com pele de neve, conhecida como branca de neve.</h2>
                         <p>Lorem Ipsum is simply dummy text of the printing and 
                             typesetting industry. Lorem Ipsum has been the industry's 
                             standard dummy text ever since the 1500s, when an unknown 
